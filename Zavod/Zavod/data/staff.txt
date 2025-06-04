@@ -1,0 +1,7 @@
+1;Ivanov Ivan;Programmer;500;Alpha;
+2;Petrov Petr;Tester;400;Alpha;
+3;Sidorov Sidor;Cleaner;200;;
+4;Andrei Andrreev;Driver;300;;
+5;Evgnii Evgenev;TeamLeader;600;Beta;
+6;Mariya Marieva;ProjectManager;700;Beta;
+7;Lydmila Lydmilevna;ProjectManager;1000;Alpha;
